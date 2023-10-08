@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.33801.447
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Actividad", "Actividad\Actividad.csproj", "{F486D04F-37B5-4382-A42A-39852F651421}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dominio", "dominio\dominio.csproj", "{B25C716A-53AA-4EAA-8BC4-3CC06CEF5B6D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dominio", "..\..\..\Documentos\Darío\TUP 2023\2do Cuatrimestre\Programacion III\Carrito de Compras\TP-carritoWeb-Progra-III\dominio\dominio.csproj", "{B25C716A-53AA-4EAA-8BC4-3CC06CEF5B6D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "negocio", "negocio\negocio.csproj", "{62D53335-BF5E-4000-8A9B-095B8C7E2441}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "negocio", "..\..\..\Documentos\Darío\TUP 2023\2do Cuatrimestre\Programacion III\Carrito de Compras\TP-carritoWeb-Progra-III\negocio\negocio.csproj", "{62D53335-BF5E-4000-8A9B-095B8C7E2441}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
